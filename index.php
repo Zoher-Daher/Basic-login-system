@@ -1,6 +1,3 @@
-<?php
-    include 'includes/class-autolaod.inc.php';
-?>
 <!DOCTYPE html>
 <html>
     <head>
